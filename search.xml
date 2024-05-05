@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>多级放大电路</title>
-    <url>/2024/05/05/4-%E5%A4%9A%E7%BA%A7%E6%94%BE%E5%A4%A7%E7%94%B5%E8%B7%AF%E5%92%8C%E9%9B%86%E6%88%90%E8%BF%90%E7%AE%97%E6%94%BE%E5%A4%A7%E5%99%A8/</url>
+    <url>/project/2024/05/05/4-%E5%A4%9A%E7%BA%A7%E6%94%BE%E5%A4%A7%E7%94%B5%E8%B7%AF%E5%92%8C%E9%9B%86%E6%88%90%E8%BF%90%E7%AE%97%E6%94%BE%E5%A4%A7%E5%99%A8/</url>
     <content><![CDATA[<h1 id="多级放大电路和集成运算放大器—模电书"><a href="#多级放大电路和集成运算放大器—模电书" class="headerlink" title="多级放大电路和集成运算放大器—模电书"></a>多级放大电路和集成运算放大器—模电书</h1><h2 id="多级放大电路"><a href="#多级放大电路" class="headerlink" title="多级放大电路"></a>多级放大电路</h2><h3 id="级间耦合"><a href="#级间耦合" class="headerlink" title="级间耦合"></a>级间耦合</h3><p>耦合满足条件：</p>
 <ol>
 <li><p>各级电路都有合适的静态工作点，以免信号失真。</p>
@@ -127,7 +127,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2024/05/04/hello-world/</url>
+    <url>/project/2024/05/04/hello-world/</url>
     <content><![CDATA[<hr>
 <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
